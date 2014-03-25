@@ -1,6 +1,5 @@
 Kontaminate
 ====================
-___
 
 A virus game for iOS with two artificial intelligence types and depth (min-max | alpha-beta).
 
@@ -8,7 +7,6 @@ Made for iPhone 5 / iOS 6, fully working in iOS 7.
 
 Objectives
 ---------------------
-___
 
 Working on Artificial Intelligence, implementation of Min-Max & Alpha-Beta Heuristic algorithms.
 
@@ -16,7 +14,6 @@ School project made by [William Klein](http://www.williamklein.name "William Kle
 
 Screenshots
 ---------------------
-___
 ![Home](screenshot_1.png "Home")
 ![Game](screenshot_2.png "Game")
 ![End](screenshot_3.png "End")
@@ -24,5 +21,4 @@ ___
 
 Licence
 ----------------------
-___
 Apache License Version 2.0
